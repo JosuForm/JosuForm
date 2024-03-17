@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JosuForm
+- 👀 I’m interested in Animation and Robotics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: YOU DON'T
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I'M COOL!
